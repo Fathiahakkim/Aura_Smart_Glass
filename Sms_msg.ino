@@ -14,13 +14,13 @@ String emergencyStatusURL = "https://glass-f7e3b-default-rtdb.firebaseio.com/eme
 
 // WiFi Credentials
 const char *ssid = "Vivo";
-const char *password = "jemsheeee567";
+const char *password = "#";
 
 // Twilio Credentials
-const char* accountSid = "ACc35e6be0e8e1459683d1412b5d2a93cb";  // Twilio Account SID
-const char* authToken = "bbb4dd56553e69193813614d14da85a0";    // Twilio Auth Token
+const char* accountSid = "#";  // Twilio Account SID
+const char* authToken = "#";    // Twilio Auth Token
 const char* fromPhone = "+12184605045";        // Your Twilio phone number
-const char* toPhone = "+917592894755";          // Recipient phone number (change as needed)
+const char* toPhone = "+917545678951";          // Recipient phone number (change as needed)
 
 String lastTimestamp = ""; // Variable to store the last timestamp from Firebase
 
