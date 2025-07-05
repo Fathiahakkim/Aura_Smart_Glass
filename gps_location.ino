@@ -9,16 +9,16 @@
 
 
 const char *ssid = "Vivo";
-const char *password = "jemsheeee567";
+const char *password = "#";
 
 // Firebase URL
 String firebaseURL = "https://glass-f7e3b-default-rtdb.firebaseio.com/emergency_status.json";
 
 // Twilio credentials
-const char* accountSid = "ACc35e6be0e8e1459683d1412b5d2a93cb";  // Twilio Account SID
-const char* authToken = "bbb4dd56553e69193813614d14da85a0";    // Twilio Auth Token
+const char* accountSid = "#";  // Twilio Account SID
+const char* authToken = "#";    // Twilio Auth Token
 const char* fromPhone = "+12184605045";    // Your Twilio phone number
-const char* toPhone = "+917592894755";    // The recipient phone number
+const char* toPhone = "+917594237821";    // The recipient phone number
 
 // Firebase emergency check node
 String emergencyCheckURL = "https://glass-f7e3b-default-rtdb.firebaseio.com/emergency_status.json";
